@@ -1,13 +1,18 @@
 # Hello World With Xamarin.Forms
 
+<img src="Docs/Images/Title.png?raw=true" alt="App Screenshot" width="auto" height="auto">
+
+<br>
+<br>
+
 ## Description
 
-This is repository contains the **HelloWorld** app created during the **Hello World With Xamarin.Forms** session.
+This repository contains the **HelloWorld** app created during the [Hello World With Xamarin.Forms](https://www.youtube.com/watch?v=KGPakBXrv-Q) session
  
 <br>
 <br>
 
-<img src="Docs/Screenshot/HelloWorld_App.png?raw=true" alt="App Screenshot" width="250" height="auto">
+<img src="Docs/Images/HelloWorld_App.png?raw=true" alt="App Screenshot" width="250" height="auto">
 
 <br>
 <br>
