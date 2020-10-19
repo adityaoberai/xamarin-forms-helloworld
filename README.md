@@ -1,6 +1,6 @@
 # Hello World With Xamarin.Forms
 
-<img src="Docs/Images/Title.png?raw=true" alt="App Screenshot" width="auto" height="auto">
+<img src="Docs/Images/Title.PNG?raw=true" alt="Title" width="auto" height="auto">
 
 <br>
 <br>
