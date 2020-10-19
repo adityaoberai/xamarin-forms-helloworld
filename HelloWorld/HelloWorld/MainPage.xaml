@@ -4,8 +4,12 @@
              x:Class="HelloWorld.MainPage">
 
     <StackLayout>
-        
-        <Label Text="Hello World!" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" FontSize="Title"/>
+
+        <Label 
+            Text="Hello World!" 
+            HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" 
+            FontSize="Title"/>
+
         <Button 
             x:Name="click"
             Text="Click Me" 
