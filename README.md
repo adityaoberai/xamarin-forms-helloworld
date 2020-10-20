@@ -22,14 +22,22 @@ The session is based on the [Hello World in 10 minutes](https://github.com/adity
 <br>
 
 ---
-## Prerequisites
+
+## Prerequisites For This Activity
+
+* No knowledge prerequisites for this tutorial
+
+* Knowledge of **C#** is necessary for developing more complex apps later
+
+---
+
+## Developing The App
+
+### Prerequisites
 
 1. Download the [Visual Studio IDE](https://visualstudio.microsoft.com/)
 
 2. Install the **Mobile development with .NET** workload
----
-
-## Developing The App
 
 ### Step 1: Create a new Xamarin.Forms app
 
@@ -134,3 +142,5 @@ Please follow the following steps to run the project in **Visual Studio IDE**
 * [Learn Xamarin (.NET)](https://dotnet.microsoft.com/learn/xamarin)
 
 * [Xamarin.Forms Quickstarts](https://docs.microsoft.com/en-us/xamarin/get-started/quickstarts/)
+
+* [Take your first steps with C# (Microsoft Learn)](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/)
