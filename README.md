@@ -1,6 +1,6 @@
 # Hello World With Xamarin.Forms
 
-<img src="Docs/Images/Title.PNG?raw=true" alt="Title" width="auto" height="auto">
+<img src="Assets/Images/Title.PNG?raw=true" alt="Title" width="auto" height="auto">
 
 <br>
 <br>
@@ -8,11 +8,13 @@
 ## Description
 
 This repository contains the **HelloWorld** app created during the [Hello World With Xamarin.Forms](https://www.youtube.com/watch?v=KGPakBXrv-Q) session
+
+[(Download the PPT here)](Assets/Slides/Hello_World_With_Xamarin_Forms.pptx)
  
 <br>
 <br>
 
-<img src="Docs/Images/HelloWorld_App.png?raw=true" alt="App Screenshot" width="250" height="auto">
+<img src="Assets/Images/HelloWorld_App.png?raw=true" alt="App Screenshot" width="250" height="auto">
 
 <br>
 <br>
