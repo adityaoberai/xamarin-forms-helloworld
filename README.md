@@ -2,8 +2,7 @@
 
 <img src="Assets/Images/Title.PNG?raw=true" alt="Title" width="auto" height="auto">
 
-<br>
-<br>
+---
 
 ## Description
 
@@ -144,3 +143,5 @@ Please follow the following steps to run the project in **Visual Studio IDE**
 * [Xamarin.Forms Quickstarts](https://docs.microsoft.com/en-us/xamarin/get-started/quickstarts/)
 
 * [Take your first steps with C# (Microsoft Learn)](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/)
+
+*Note: If you'd like to share more resources, do create a pull request and add them above this message :)*
