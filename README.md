@@ -9,6 +9,8 @@
 
 This repository contains the **HelloWorld** app created during the [Hello World With Xamarin.Forms](https://www.youtube.com/watch?v=KGPakBXrv-Q) session
 
+The session is based on the [Hello World in 10 minutes](https://github.com/adityaoberai/xamarin-forms-helloworld#resources) Xamarin Tutorial
+
 [(Download the PPT here)](Assets/Slides/Hello_World_With_Xamarin_Forms.pptx)
  
 <br>
